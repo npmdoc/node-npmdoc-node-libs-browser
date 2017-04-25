@@ -1,4 +1,7 @@
-# api documentation for  [node-libs-browser (v2.0.0)](http://github.com/webpack/node-libs-browser)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-libs-browser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-libs-browser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-libs-browser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-libs-browser)
+# npmdoc-node-libs-browser
+
+#### basic api documentation for  [node-libs-browser (v2.0.0)](http://github.com/webpack/node-libs-browser)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-libs-browser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-libs-browser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-libs-browser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-libs-browser)
+
 #### The node core libs for in browser usage.
 
 [![NPM](https://nodei.co/npm/node-libs-browser.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-libs-browser)
@@ -84,7 +87,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
